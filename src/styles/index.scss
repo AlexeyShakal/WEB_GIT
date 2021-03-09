@@ -1,0 +1,11 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+// variables
+@import "variables";
+// default styles
+@import './default';
+
+// components
+@import "header";
+@import "footer";
+@import "components/login";
